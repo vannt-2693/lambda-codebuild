@@ -1,3 +1,1 @@
-mysql-connector-python==8.0.28
 boto3==1.20.41
-opencv-python==4.5.1.48
